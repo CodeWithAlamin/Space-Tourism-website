@@ -6,7 +6,7 @@
   <h2>Space Tourism</h2>
 
   <h3>
-    <a href="https://space-tourism-codepapa.vercel.app">
+    <a href="https://space-tourism-alamin.vercel.app">
       <strong>View Demo</strong>
     </a> 
     || 
@@ -16,9 +16,9 @@
   </h3>
 
   <div align="center">
-    <a href="https://github.com/CodePapa360/Space-Tourism-website/issues">Report Bug</a>
+    <a href="https://github.com/CodeWithAlamin/Space-Tourism-website/issues">Report Bug</a>
     •
-    <a href="https://github.com/CodePapa360/Space-Tourism-website/pulls">Request Feature</a>
+    <a href="https://github.com/CodeWithAlamin/Space-Tourism-website/pulls">Request Feature</a>
   </div>
 
   <hr>
@@ -34,8 +34,8 @@
 <!-- Liceensee -->
 <img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License" />
 
-<a href='https://www.twitter.com/CodePapa360' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=Twitter&logoColor=00C9F7&labelColor=3F3F3F&color=0092FA'/></a>
-<a href='https://www.linkedin.com/in/codepapa360' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
+<a href='https://www.twitter.com/CodeWithAlamin' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/@CodeWithAlamin-100000?style=for-the-badge&logo=Twitter&logoColor=00C9F7&labelColor=3F3F3F&color=0092FA'/></a>
+<a href='https://www.linkedin.com/in/CodeWithAlamin' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodeWithAlamin-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
 
 </div>
 
@@ -45,7 +45,7 @@ A multi-page space tourism website — discover destinations, meet the crew, and
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://space-tourism-codepapa.vercel.app">
+<a align="center" href="https://space-tourism-alamin.vercel.app">
 
 ![Screenshot](./public/thumbnail-preview.jpg)
 
@@ -73,7 +73,7 @@ Users should be able to:
 
 ## Links
 
-- View Demo - https://space-tourism-codepapa.vercel.app
+- View Demo - https://space-tourism-alamin.vercel.app
 - Solution page - [https://www.frontendmentor.io/solutions/...](https://www.frontendmentor.io/solutions/space-tourism-website-w-reactjs-GbYaAoC2Nc)
 
 ## My process🛠️
@@ -153,7 +153,7 @@ This approach ensures a seamless user experience, providing default navigation w
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Space-Tourism-website.git
+git clone https://github.com/CodeWithAlamin/Space-Tourism-website.git
 ```
 
 - Install dependencies:
@@ -178,10 +178,10 @@ npm run dev
 
 <b>Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
